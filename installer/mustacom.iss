@@ -49,6 +49,10 @@ ShowLanguageDialog=yes
 Name: "fr"; MessagesFile: "compiler:Languages\French.isl"
 Name: "en"; MessagesFile: "compiler:Default.isl"
 
+[CustomMessages]
+fr.CreateStartMenuShortcuts=Créer des raccourcis dans le menu Démarrer
+en.CreateStartMenuShortcuts=Create Start Menu shortcuts
+
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: checkedonce
 Name: "startmenu";  Description: "{cm:CreateStartMenuShortcuts}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: checkedonce
